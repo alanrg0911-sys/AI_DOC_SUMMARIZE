@@ -8,3 +8,7 @@ The program has a history function where you can see the date when you summarize
 As I stated before the time on getting the summary depends on your system specs and the amount of text of the PDF.
 
 For the moment this program does not have a proper user interface, everything is through CLI and also does not have a function were you can export the summarized text to a new PDF file(yet).
+
+To run the program you just to run the main.py. 
+
+You can use the command python main.py in the terminal of the project.
